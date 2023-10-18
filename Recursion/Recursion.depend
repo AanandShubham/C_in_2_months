@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613056704 source:d:\codeblocks\recursion\main.c
+
+1613056854 source:d:\codeblocks\recursion\recursion_loop.c
+	<stdio.h>
+

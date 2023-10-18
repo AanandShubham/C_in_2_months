@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623421432 source:d:\codeblocks\datastructures\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1623421920 source:d:\codeblocks\datastructures\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+

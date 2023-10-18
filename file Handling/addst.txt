@@ -1,0 +1,4 @@
+(1) name = ramesh | marks = 34 
+(2) name = lalan | marks = 45 
+(3) name = rajesh | marks = 65 
+(4) name = mohan | marks = 54 

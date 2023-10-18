@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602154322 source:d:\codeblocks\ternary oprator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602769489 source:d:\codeblocks\ternary oprator\hello.c
+	<stdio.h>
+	<stdlib.h>
+

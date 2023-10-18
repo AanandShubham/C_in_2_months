@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606395299 source:d:\codeblocks\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606395826 source:d:\codeblocks\array\2-d array.c
+	<stdio.h>
+	<stdlib.h>
+

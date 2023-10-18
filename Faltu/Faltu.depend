@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608189388 source:d:\codeblocks\faltu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608306625 source:d:\codeblocks\faltu\bitwise.c
+	<stdio.h>
+
